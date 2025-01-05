@@ -7,7 +7,7 @@ setTimeout(() =>{butao.click();},4000);
 
 var teste = document.getElementById('teste');
 teste.onclick = function(){
-         window.location = "//pl25335431.profitablecpmrate.com/cc/9e/d3/cc9ed339065bd6dfe9b7afe79fccce90.js"
+         window.location = "https://www.profitablecpmrate.com/akv60cf7?key=68aa0b605468f42199fdd436db3f9186"
 
 };
 
