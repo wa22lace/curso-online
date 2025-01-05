@@ -9,7 +9,7 @@ setTimeout(function(){ document.getElementById('butao').click();},8000);
 
 
 function clique() {
-   console.log("clikc feito")
+   console.log("clikc trocou de cor")
    document.body.style.background = 'green'
   }
 
