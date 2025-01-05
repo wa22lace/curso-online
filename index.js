@@ -6,4 +6,4 @@ function clique() {
 
 const butao = document.getElementById('butao')
 
-setTimeout(() =>{butao.click();},4000);
+setTimeout(() =>{butao.click();},8000);
