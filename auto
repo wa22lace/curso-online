@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="auto.css">
+<script type='text/javascript' src='//pl25335431.profitablecpmrate.com/cc/9e/d3/cc9ed339065bd6dfe9b7afe79fccce90.js'></script>
+
+</head>
+<body onclick="clique()" id="butao">
+    <h1  >
+        Script Teste
+    </h1>
+    
+
+    <button  id="butao">Teste clique</button>
+
+
+    <script>
+    //var click = document.getElementById('butao')
+
+    function clique() {
+           
+      }
+    
+    const butao = document.getElementById('butao')
+    
+    setTimeout(() =>{butao.click();},4000);
+    </script>
+
+    
+</body>
+ 
+
+</html>
